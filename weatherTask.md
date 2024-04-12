@@ -9,7 +9,7 @@
 Կայքից օգտվելու անհրաժեշտ քայլերն են
 
 - գրանցվեք կայքում և ակտիվացրեք ձեր էջև մեյլի միջոցով
-- գեներացրեք ձեր կեյը Regenerate API Key
+- գեներացրեք ձեր կեյը Generate API Key
   
  ![Key!](/images/api-key.png "Key")
 - տվյալները ստանալու համար հարցում եք կատարում հետևյալ հղումով http://api.weatherapi.com/v1/forecast.json?key=<YOUR_API_KEY>&q=Armenia&days=7
